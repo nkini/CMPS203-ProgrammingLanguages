@@ -1,1 +1,64 @@
 # CMPS203-ProgrammingLanguages
+** What to study **
+- Different paradigms  
+  - Mix and match within/between languages
+  - Computational models
+    - Imperative, functional, “logical”, event-based
+  - Abstract machines
+- Key concepts and implementation techniques
+  - Scopes (name space and memory management)
+  - Type system; type checking and inference
+  - Data abstraction; polymorphism
+  - Objects (and classes)
+  - Modularity
+  - Concurrency
+  - Mobility (?)
+- Foundational formalisms, calculi, theories
+  - Predicate calculus, (typed) lambda calculus, multi-sorted algebras;
+  - (higher-order) abstract syntax
+  - Denotational, axiomatic, operational semantics
+
+** Some (All?) keywords **
+- Formal language theory
+	- Regular grammars
+	- Context-free grammars
+    - derivations, derivation trees
+- Language description
+	- Concrete syntax
+	- Abstract syntax
+	- Semantics
+- Language translation
+	- Type checking/inference
+	- Data/control flow
+	- Abstract interpretation
+	- Code generation
+	- Run-time systems
+- Mathematics
+	- Set theory
+	- Functions
+    - Total, partial
+	- Relations
+	- Higher order functions
+    - Currying
+	- Induction/recursion
+	- Category theory
+- (Mathematical) Logic
+	- Predicate calculus
+    - First, higher order
+	- Formal proofs
+	- Model theory
+	- Algebras
+- Computational models
+	- Finite state machines
+	- Pushdown (stack) automata
+	- Turing machines
+	- Lambda calculus
+	- Abstract machines
+- Computer Science
+	- Abstract data types
+    - Algebraic data types
+	- Polymorphism
+    - OO, functional
+	- Type theory
+	- Type regimes
+    - Static/dynamic; strong/weak
